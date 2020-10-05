@@ -13,7 +13,6 @@ let books = [];
 /*app.get('/bananas', (req, res) =>
   res.send('hello world, this is bananas'));
 
-app.listen(port, () => console.log(`Example app listening on port ${port}!`))
 
 app.get('/bananas', (req, res) =>
   res.send('hello world, this is bananas'));*/
